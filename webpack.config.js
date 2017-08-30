@@ -36,7 +36,7 @@ const config = {
 
             {
                 test: /\.scss$/,
-                loaders: ['style-loader', 'css-loader', 'sass-loader', 'postcss-loader']
+                loaders: ['style-loader', 'css-loader', 'postcss-loader', 'sass-loader']
             },
 
             {
