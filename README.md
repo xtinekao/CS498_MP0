@@ -21,7 +21,7 @@ You will be using [Codepen](https://codepen.io/) for this part. You will have to
 #### Requirements
 1. The webpage should mirror the layout shown in the example.
 2. Elements: You should use at least one of all the following: image, link, paragraph, heading.
-3. Layout: Everything should be centered horizontally(card, image, text, heading)
+3. Layout: The image, heading, and link must all be horizontally centered. The biography text can be either left-aligned or horizontally centered.
 4. Styling: All styling must lie within the CSS section
 5. The card must occupy 80% of the page height. The image should have a height-width of 150px.
 
