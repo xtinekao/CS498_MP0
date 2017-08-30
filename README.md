@@ -61,7 +61,7 @@ You will be setting up your development environment as detailed in [Part 4](#env
 ## Environment Setup Guide
 0. Install [Node.js LTS](https://nodejs.org/en/) and [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 1. Clone the repository:
-`git clone https://github.com/uiuc-web-programming/mp0_starter_17.git mp0`
+`git clone https://github.com/uiuc-web-programming/mp0_starter_17.git mp0`, then `cd mp0`
 2. Install dependencies:
 `npm install`
 3. Run the dev server:
