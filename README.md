@@ -23,7 +23,7 @@ You will be using [Codepen](https://codepen.io/) for this part. You will have to
 2. Elements: You should use at least one of all the following: image, link, paragraph, heading.
 3. Layout: The image, heading, and link must all be horizontally centered. The biography text can be either left-aligned or horizontally centered.
 4. Styling: All styling must lie within the CSS section
-5. The card must occupy 80% of the page height. The image should have a height-width of 150px.
+5. The image should have a height and width of 150px.
 
 #### Optional
 If you'd like to get some hands-on experience with Javascript before the next MP, you may attempt to recreate [this example](https://uiuc-web-programming.github.io/su17/images/mp0.gif). Although this will not be graded, understanding this early-on will make your life significantly easier for the next MP! :)
